@@ -1,4 +1,4 @@
-const arrayDiff = require('./index');
+const arrayDiff = require('./array_diff');
 
 describe('Array Diff', () => {
   test('a was [], b was [4,5]', () => {
