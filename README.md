@@ -8,3 +8,4 @@
 | [Who likes it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | - [olawale-o](https://github.com/olawale-o) <br /> [Simon](https://github.com/SimonGrchevski) <br />  [Moise](https://github.com/moise10r) <br /> [Toliboff](https://github.com/toliboff)
 | [create_phone_number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/ruby) | - [olawale-o](https://github.com/olawale-o) <br /> [Simon](https://github.com/SimonGrchevski) <br />  [Hiro](https://github.com/hiromataba) <br /> [Gift](https://github.com/Ghiftee)
 | [descending_order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | - [olawale-o](https://github.com/olawale-o) <br /> [Simon](https://github.com/SimonGrchevski) <br /> [Gift](https://github.com/Ghiftee)
+| [is_isogram](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | - [olawale-o](https://github.com/olawale-o) <br /> [Simon](https://github.com/SimonGrchevski) <br /> [Gift](https://github.com/Ghiftee)
